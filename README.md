@@ -11,6 +11,6 @@ Outline
 # Architecture
  - code: here
  - data: (iGEM google) My drive/AI/
- -       or (Your google) My drive/AI/
- if you want to use your google drive, you make floder named AI at home directory and copy data for iGEM google drive/Ai floder.
+          or (Your google) My drive/data/
+ if you want to use your google drive, you make floder named data at home directory and copy data for iGEM google drive/Ai floder.
  - exec: your local PCs or google colab
